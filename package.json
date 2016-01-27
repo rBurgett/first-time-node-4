@@ -1,0 +1,19 @@
+{
+  "name": "first-time-node-4",
+  "version": "1.0.0",
+  "description": "This is a repository to accompany my blog post series called \"First Time Node\" at blog.burgettweb.net.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/first-time-node-4.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rBurgett/first-time-node-4/issues"
+  },
+  "homepage": "https://github.com/rBurgett/first-time-node-4#readme"
+}
